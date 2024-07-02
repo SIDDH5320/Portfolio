@@ -1,11 +1,9 @@
 <h2 align="center">
-  Portfolio Website <br/>
- 
+  Portfolio Website <br/> 
 </h2>
 
 <br/>
 
-## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [SIDDH5320](https://github.com/SIDDH5320/Portfolio). Thanks!
 
